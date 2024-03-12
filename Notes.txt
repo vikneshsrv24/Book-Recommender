@@ -1,0 +1,25 @@
+We can use API or large book dataset for the project.
+Popular API includes :
+ * ISBNdb - Cost [https://isbndb.com/isbn-database]
+ * Google Books - Free [https://developers.google.com/books/docs/v1/using]
+ * Open Library - Free [https://openlibrary.org/dev/docs/api/books]
+
+Here we are using goodreads dataset.
+ 1- First dataset contains user_id - each user of goodreads.
+ 2- Book_id each id for books in the datasets.
+ 3- Ratings of each books
+
+ Next dataset we have book metadata which contains
+ informations like series, country code, lang code,
+ description,genre,publication year etc.
+
+ Third dataset includes book_id because it helps us
+ in connecting the same book from first dataset
+
+Three main steps in our projects are 
+   1 - Search for Books
+   2 - Create Book Lists
+   3 - Recommend Books
+1 - We will also going to build a search engine for \
+searching books.
+

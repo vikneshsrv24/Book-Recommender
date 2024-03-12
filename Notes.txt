@@ -21,3 +21,5 @@ Three main steps in our projects are
    2 - Create Book Lists
    3 - Recommend Books
 
+1 - We will also going to build a search engine for \
+searching books

@@ -29,3 +29,10 @@ goodreads dataset website [https://mengtingwan.github.io/data/goodreads#datasets
 -> goodreads_books.json.gz [https://datarepo.eng.ucsd.edu/mcauley_group/gdrive/goodreads/goodreads_books.json.gz] - 2 GB
 -> book_id_map.csv - [https://datarepo.eng.ucsd.edu/mcauley_group/gdrive/goodreads/book_id_map.csv] - 36 MB
 
+As we have file size of more than 2 GB we cannot
+upload directly in github. Instead we can able to upload
+only via git lfs.
+ * Git lfs - [https://git-lfs.com/]
+
+To upload via terminal, Refer - [https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage]
+ 

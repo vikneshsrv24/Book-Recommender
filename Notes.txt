@@ -21,5 +21,10 @@ Three main steps in our projects are
    2 - Create Book Lists
    3 - Recommend Books
 
-1 - We will also going to build a search engine for \
-searching books
+We will also going to build a search engine for searching books
+
+goodreads dataset website [https://mengtingwan.github.io/data/goodreads#datasets]
+
+-> goodreads_interactions.csv [https://datarepo.eng.ucsd.edu/mcauley_group/gdrive/goodreads/goodreads_interactions.csv] - 4 GB
+-> goodreads_books.json.gz [https://datarepo.eng.ucsd.edu/mcauley_group/gdrive/goodreads/goodreads_books.json.gz] - 2 GB
+-> book_id_map.csv - [https://datarepo.eng.ucsd.edu/mcauley_group/gdrive/goodreads/book_id_map.csv] - 36 MB
